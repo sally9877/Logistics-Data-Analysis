@@ -237,11 +237,6 @@ Possible future enhancements include:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Shipment & Delivery Performance Dashboard](Dashboard.png)
-
----
 
 ## 👩‍💻 Project Author
 
